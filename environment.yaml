@@ -1,0 +1,9 @@
+name: "hackathon_local"
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - xdggs
+  - zarr
+  - h5netcdf
+  - xmip
